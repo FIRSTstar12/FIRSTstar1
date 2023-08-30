@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FRISTstella
+- 👋 Hi, I’m @FIRSTstella
 - 👀 I’m interested in robots
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on classified infomation
